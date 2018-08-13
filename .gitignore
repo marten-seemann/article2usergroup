@@ -1,0 +1,8 @@
+build/productive
+build/encoder/article2usergroup
+build/encoder/encrypted*
+build/encoder/*.zip
+build/encoder/license.txt
+build/article2usergroup
+build/article2usergroup*
+build/*.zip
